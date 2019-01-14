@@ -1,0 +1,10 @@
+body{
+
+}
+.bs-forms{
+	text-align: center;
+	padding: 10px auto;
+	border: 1px solid black;
+	margin: 15px auto;
+	border-radius: 15px 50px; 
+}
